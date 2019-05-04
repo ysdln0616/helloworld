@@ -1,0 +1,7 @@
+body{
+    background-color: rgb(224,159,217);
+    height: 100vh;
+}
+.border {
+    border-bottom: solid 2px rgb(243, 19, 180);
+}
