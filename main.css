@@ -40,6 +40,7 @@ body{
     list-style-type: disc;
     top: 60px;
     left: 30px;
+width: 200px;
 
 }
 
@@ -50,8 +51,8 @@ body{
     margin-bottom: 10px;
    
     font-size: 24px;
-    top: 30px;
-    left: 400px;
+    top: 50px;
+    left: 44px;
 }
 
 .brank{
@@ -71,7 +72,7 @@ body{
   color: #fff;
   position: relative;
   top: 10px;
-  left: 50px;
+  left: 100px;
   font-size: 20px;
 
 
@@ -79,9 +80,9 @@ body{
 .title h1{
   position: relative;
     top: 12px;
-    left: 0px;
+    left: 60px;
     color: #fff;
-    font-size: 20px;
+    font-size: 30px;
 }
 .title h2{
   position: relative;
@@ -92,14 +93,14 @@ body{
 }
 .blog {
   position: relative;
-  height: 1000px;
+  height: 400px;
   margin-top: 10px;
   background-position: left bottom;
   background-repeat: no-repeat;
   color: #fff;
   font-size: 12px;
   }
-  .snslink h2{
+  .snslink p {
     position: relative;
       top: 12px;
       left: 0px;
