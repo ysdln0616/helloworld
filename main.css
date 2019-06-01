@@ -1,9 +1,10 @@
-body{
+html,body{
     background-color: rgb(236, 195, 229);
 }
 .border {
     border-bottom: solid 2px #fff;
 }
+
 .profile h2 {
     position: relative;
     top: 47px;
@@ -24,14 +25,12 @@ body{
   .profile dl {
     position: absolute;
     color: #fff;
-    top: 52px;
-    left: 300px;
-    width: 400px;
+    top: 80px;
+    right: 75px;
+    width: 180px;
   }
   
   .profile dt {
-    margin-top: 20px;
-    margin-bottom: 20px;
     color: #fff;
     font-size: 16px;
   }
@@ -50,7 +49,7 @@ body{
     position: relative;
     color: #fff;
     list-style-type: disc;
-    top: 50px;
+    top: 75px;
     left: 0px;
     padding: 0px;
     font-weight: 700;
@@ -60,7 +59,7 @@ body{
   list-style: none;
   position: relative;
   color: #fff;
-  top: 140px;
+  top: 180px;
   left: 48px;
   padding: 0px;
   font-size: 20px;
@@ -81,13 +80,12 @@ body{
     margin-top: 10px;
     margin-bottom: 10px;
     font-size: 24px;
-    top: 50px;
+    top: 0px;
     left: 30px;
     color: #fff;
     padding: 0px;
 }
-
-.b1 link li{
+.b1  li{
   list-style: none;
   justify-content: center;
   margin-top: 10px;
@@ -99,12 +97,6 @@ body{
   padding: 0px;
 }
 
-
-.brank{
-  margin-block-start: 8em;
-}
-
-
 .blogdate h5{
   position: absolute;
   color: #fff;
@@ -115,44 +107,55 @@ body{
 
 .document {
   color: #fff;
-  position: relative;
-  top: 0px;
+  position: absolute;
+  top: 4em;
   left: 48px;
-  font-size: 20px;
+  font-size: 22px;
 margin-block-start: 0px;
 margin-block-end: 0px;
 
 }
 .blogtitle {
   position: relative;
-    top: 12px;
+    top: 0px;
     left: 60px;
     color: #fff;
     font-size: 20px;
     max-width: 100;
 }
+.headline {
+  top: 0px;
+  height: 80%;
+  background: #c596d5;
+padding: 0px;
+}
+
+
 .blog {
   position: relative;
-  height: 700px;
-  margin-top: 10px;
+  margin-top: 0px;
+  left: 0px;
+  height: 1000px;
   background-position: left bottom;
   background-repeat: no-repeat;
   color: #fff;
   font-size: 12px;
   }
+
+  
   .blog h2 {
     position: relative;
-    top: 47px;
+    top: 40px;
     left: 48px;
     color: #fff;
     font-size: 24px;
 }
   .snslink {
     position: relative;
-      top: 12px;
+      top: 0px;
       left: 0px;
       color: #fff;
-      font-size: 24px;
+      font-size: 18px;
       font-weight: 700;
   }
 .tablelink{
@@ -180,3 +183,76 @@ margin-block-end: 0px;
   top: 30px;
   
 }
+
+
+.backprepargefromprofile {
+  position: relative;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-size: 16px;
+  top: 5px;
+  color:  rgb(236, 195, 229);
+  margin: 0px;
+  margin-block-start: 0px;
+  margin-block-end: 0px;
+  padding: 0px;
+  font-weight: 700;
+}
+
+.backprepargefromblogsummary {
+  position: relative;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-size: 16px;
+  left: 60px;
+  top: 20px;
+  color:  rgb(236, 195, 229);
+  margin: 0px;
+  margin-block-start: 0px;
+  margin-block-end: 0px;
+  padding: 0px;
+  font-weight: 700;
+}
+.backpreparge {
+  position: relative;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-size: 16px;
+  left: 0px;
+  top: 20px;
+  color:  rgb(236, 195, 229);
+  margin: 0px;
+  margin-block-start: 0px;
+  margin-block-end: 0px;
+  padding: 0px;
+  font-weight: 700;
+}
+.backprepargefromBLOG201905 {
+  position: relative;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-size: 16px;
+  left: 60px;
+  top: 20px;
+  color:  rgb(236, 195, 229);
+  margin: 0px;
+  margin-block-start: 0px;
+  margin-block-end: 0px;
+  padding: 0px;
+  font-weight: 700;
+}
+.backprepargefromBLOG201906 {
+  position: relative;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-size: 16px;
+  left: 60px;
+  top: 90px;
+  color:  rgb(236, 195, 229);
+  margin: 0px;
+  margin-block-start: 0px;
+  margin-block-end: 0px;
+  padding: 0px;
+  font-weight: 700;
+}
+
