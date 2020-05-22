@@ -71,6 +71,7 @@ body {
 .document {
   position: relative;
   margin-left: 50px;
+  margin-right: 50px;
   color: #8db0fc;
   -webkit-text-stroke: 1px #34271c;
   font-weight: 700;
