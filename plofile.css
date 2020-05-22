@@ -61,7 +61,7 @@ body {
   justify-content: center;
   margin-left: 30px;
   margin-top: 20px;
-  font-size: 20px;
+  font-size: 22px;
   font-weight: 700;
   color: rgb(164, 187, 214);
   -webkit-text-stroke: 1px rgb(54, 72, 94);
@@ -71,7 +71,7 @@ body {
 
 .backPreparge {
   position: relative;
-  font-size: 24px;
+  font-size: 20px;
   margin-left: 20px;
   color: rgb(164, 187, 214);
   -webkit-text-stroke: 1px rgb(54, 72, 94);
