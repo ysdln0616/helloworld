@@ -10,7 +10,7 @@ body {
 }
 
 .border {
-  border-bottom: solid 2px #000;
+  border-bottom: solid 1px #000;
 }
 
 .mainContents {
@@ -67,4 +67,11 @@ body {
   float: right;
   font-weight: 400;
   background: linear-gradient(#ffc8a4, #fec954, #ffc8a4);
+}
+.document {
+  position: relative;
+  margin-left: 50px;
+  color: #05accf;
+  -webkit-text-stroke: 1px #a8344d;
+  font-weight: 700;
 }
