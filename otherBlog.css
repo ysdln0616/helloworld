@@ -1,68 +1,29 @@
 html,
 body {
-  /* background-color: rgb(236, 195, 229); */
-  background-color: rgb(98, 140, 186);
+  background-color: rgb(236, 195, 229);
 }
-
-.v_line_left {
-  border-left: solid 1px black;
-  border-right: solid 1px black;
-  padding-left: 0px;
-}
-
 .border {
-  border-bottom: solid 2px;
+  border-bottom: solid 2px #fff;
 }
 
 .profile h2 {
   position: relative;
-  /* top: 47px;
-  left: 48px; */
-  margin-left: 10px;
-  /* color: #fff; */
-  color: rgb(54, 72, 94);
-  font-size: 24px;
-}
-
-.mainContents h2 {
-  position: relative;
-  /* top: 47px;
-  left: 48px; */
-  margin-left: 10px;
-  /* color: #fff; */
-  color: rgb(54, 72, 94);
+  top: 47px;
+  left: 48px;
+  color: #fff;
   font-size: 24px;
 }
 .profile {
   position: relative;
-  /* height: 400px; */
-  margin: 20px;
+  height: 400px;
+  margin-top: 10px;
   background-position: left bottom;
   background-repeat: no-repeat;
-  background-color: rgb(243, 178, 172);
-  font-size: 12px;
-  font-weight: 700;
-}
-
-.mainContents {
-  position: relative;
-  margin: 20px;
-  background-position: left bottom;
-  background-repeat: no-repeat;
-  background-color: rgb(243, 178, 172);
-  font-size: 12px;
-  font-weight: 700;
-}
-
-.profile dl {
-  position: absolute;
   color: #fff;
-  top: 80px;
-  right: 75px;
-  width: 180px;
+  font-size: 12px;
+  font-weight: 700;
 }
-
-.mainContents dl {
+.profile dl {
   position: absolute;
   color: #fff;
   top: 80px;
@@ -74,12 +35,6 @@ body {
   color: #fff;
   font-size: 16px;
 }
-
-.mainContents dt {
-  color: #fff;
-  font-size: 16px;
-}
-
 .ul {
   list-style: none;
   position: relative;
@@ -108,9 +63,10 @@ body {
   padding: 0px;
   font-size: 20px;
 }
-.tableOfContnts ul {
+.t1 ul {
   list-style: none;
   position: relative;
+  color: #fff;
   top: 0px;
   left: 48px;
   padding: 0px;
@@ -200,13 +156,9 @@ body {
 }
 .tablelink {
   position: relative;
-  /* top: 100px;
-  left: 10px; */
-  /* color: #fff; */
-  color: rgb(54, 72, 94);
-  background: linear-gradient(#f3b2ac, #ea7775);
-  text-decoration-color: rgb(98, 140, 186);
-  /* background-color: #c596d5; */
+  top: 100px;
+  left: 10px;
+  color: #fff;
   font-size: 24px;
   font-weight: 700;
 }
