@@ -1,47 +1,14 @@
 html,
 body {
-  /* background-color: rgb(236, 195, 229); */
   background-color: rgb(98, 140, 186);
 }
-
 .v_line_left {
   border-left: solid 1px black;
   border-right: solid 1px black;
   padding-left: 0px;
 }
-
 .border {
   border-bottom: solid 2px;
-}
-
-.profile h2 {
-  position: relative;
-  /* top: 47px;
-  left: 48px; */
-  margin-left: 10px;
-  /* color: #fff; */
-  color: rgb(54, 72, 94);
-  font-size: 24px;
-}
-
-.mainContents h2 {
-  position: relative;
-  /* top: 47px;
-  left: 48px; */
-  margin-left: 10px;
-  /* color: #fff; */
-  color: rgb(54, 72, 94);
-  font-size: 24px;
-}
-.profile {
-  position: relative;
-  /* height: 400px; */
-  margin: 20px;
-  background-position: left bottom;
-  background-repeat: no-repeat;
-  background-color: rgb(243, 178, 172);
-  font-size: 12px;
-  font-weight: 700;
 }
 
 .mainContents {
@@ -50,249 +17,65 @@ body {
   background-position: left bottom;
   background-repeat: no-repeat;
   background-color: rgb(243, 178, 172);
-  font-size: 12px;
   font-weight: 700;
 }
-
-.profile dl {
-  position: absolute;
-  color: #fff;
-  top: 80px;
-  right: 75px;
-  width: 180px;
+.mainContents h2 {
+  position: relative;
+  padding-left: 20px;
+  color: rgb(164, 187, 214);
+  -webkit-text-stroke: 1px rgb(54, 72, 94);
+  font-size: 24px;
 }
-
-.mainContents dl {
-  position: absolute;
-  color: #fff;
-  top: 80px;
-  right: 75px;
-  width: 180px;
-}
-
-.profile dt {
-  color: #fff;
-  font-size: 16px;
-}
-
 .mainContents dt {
-  color: #fff;
-  font-size: 16px;
-}
-
-.ul {
-  list-style: none;
-  position: relative;
-  color: #fff;
-  list-style-type: disc;
-  top: 50px;
-  left: 0px;
-  padding: 0px;
-  font-weight: 700;
-}
-.b1 ul {
-  position: relative;
-  color: #fff;
-  list-style-type: disc;
-  top: 75px;
-  left: 0px;
-  padding: 0px;
-  font-weight: 700;
-}
-.p1 ul {
-  list-style: none;
-  position: relative;
-  color: #fff;
-  top: 180px;
-  left: 48px;
-  padding: 0px;
+  padding-left: 50px;
+  padding-right: 50px;
+  color: rgb(98, 140, 186);
+  -webkit-text-stroke: 1px rgb(54, 72, 94);
   font-size: 20px;
-}
-.tableOfContnts ul {
-  list-style: none;
   position: relative;
-  top: 0px;
-  left: 48px;
-  padding: 0px;
-  font-size: 20px;
 }
-
-.p1 link li {
-  list-style: none;
+.introLink {
   justify-content: center;
-  margin-top: 10px;
-  margin-bottom: 10px;
-  font-size: 24px;
-  top: 0px;
-  left: 30px;
-  color: #fff;
-  padding: 0px;
-}
-.b1 li {
-  list-style: none;
-  justify-content: center;
-  margin-top: 10px;
-  margin-bottom: 10px;
-  font-size: 24px;
-  top: 50px;
-  left: 0px;
-  color: #fff;
-  padding: 0px;
-}
-
-.blogdate h5 {
-  position: absolute;
-  color: #fff;
-  top: 40px;
-  right: 10px;
-  font-size: 12px;
-}
-
-.document {
-  color: #fff;
-  position: absolute;
-  top: 4em;
-  left: 48px;
-  font-size: 22px;
-  margin-block-start: 0px;
-  margin-block-end: 0px;
-}
-.blogtitle {
-  position: relative;
-  top: 0px;
-  left: 60px;
-  color: #fff;
   font-size: 20px;
-  max-width: 100;
+  font-weight: 700;
+  color: rgb(98, 140, 186);
+  -webkit-text-stroke: 1px rgb(54, 72, 94);
+  background: linear-gradient(rgb(243, 178, 172), #ea7775);
+  text-decoration-color: rgb(98, 140, 186);
 }
-.headline {
-  top: 0px;
-  height: 80%;
-  background: #c596d5;
+.SNSLink {
+  margin-left: 50px;
+  margin-right: 50px;
+  border-radius: 20px;
+  background-color: rgb(234, 154, 147);
+}
+.SNSLink ul {
+  list-style: none;
   padding: 0px;
 }
-
-.blog {
-  position: relative;
-  margin-top: 0px;
-  left: 0px;
-  height: 2000px;
-  background-position: left bottom;
-  background-repeat: no-repeat;
-  color: #fff;
-  font-size: 12px;
+.SNSLink li {
+  padding-top: 5px;
+  padding-bottom: 5px;
 }
-
-.blog h2 {
-  position: relative;
-  top: 40px;
-  left: 48px;
-  color: #fff;
-  font-size: 24px;
-}
-.snslink {
-  position: relative;
-  top: 0px;
-  left: 0px;
-  color: #fff;
-  font-size: 18px;
+.SNSLink a {
+  justify-content: center;
+  margin-left: 30px;
+  margin-top: 20px;
+  font-size: 20px;
   font-weight: 700;
+  color: rgb(164, 187, 214);
+  -webkit-text-stroke: 1px rgb(54, 72, 94);
+  background: linear-gradient(rgb(234, 154, 147), #ea7775);
+  text-decoration-color: rgb(98, 140, 186);
 }
-.tablelink {
+
+.backPreparge {
   position: relative;
-  /* top: 100px;
-  left: 10px; */
-  /* color: #fff; */
-  color: rgb(54, 72, 94);
+  font-size: 24px;
+  margin-left: 20px;
+  color: rgb(164, 187, 214);
+  -webkit-text-stroke: 1px rgb(54, 72, 94);
   background: linear-gradient(#f3b2ac, #ea7775);
   text-decoration-color: rgb(98, 140, 186);
-  /* background-color: #c596d5; */
-  font-size: 24px;
-  font-weight: 700;
-}
-.title {
-  position: relative;
-  height: 20px;
-  margin-top: 10px;
-  background-position: left bottom;
-  background-repeat: no-repeat;
-  color: #fff;
-  font-size: 12px;
-  font-weight: 700;
-}
-.spritborder {
-  position: relative;
-  border-bottom: solid 2px #fff;
-  top: 30px;
-}
-
-.backprepargefromprofile {
-  position: relative;
-  margin-top: 0px;
-  margin-bottom: 0px;
-  font-size: 16px;
-  top: 5px;
-  color: rgb(236, 195, 229);
-  margin: 0px;
-  margin-block-start: 0px;
-  margin-block-end: 0px;
-  padding: 0px;
-  font-weight: 700;
-}
-
-.backprepargefromblogsummary {
-  position: relative;
-  margin-top: 0px;
-  margin-bottom: 0px;
-  font-size: 16px;
-  left: 60px;
-  top: 20px;
-  color: rgb(236, 195, 229);
-  margin: 0px;
-  margin-block-start: 0px;
-  margin-block-end: 0px;
-  padding: 0px;
-  font-weight: 700;
-}
-.backpreparge {
-  position: relative;
-  margin-top: 0px;
-  margin-bottom: 0px;
-  font-size: 16px;
-  left: 0px;
-  top: 20px;
-  color: rgb(236, 195, 229);
-  margin: 0px;
-  margin-block-start: 0px;
-  margin-block-end: 0px;
-  padding: 0px;
-  font-weight: 700;
-}
-.backprepargefromBLOG201905 {
-  position: relative;
-  margin-top: 0px;
-  margin-bottom: 0px;
-  font-size: 16px;
-  left: 60px;
-  top: 20px;
-  color: rgb(236, 195, 229);
-  margin: 0px;
-  margin-block-start: 0px;
-  margin-block-end: 0px;
-  padding: 0px;
-  font-weight: 700;
-}
-.backprepargefromBLOG201906 {
-  position: relative;
-  margin-top: 0px;
-  margin-bottom: 0px;
-  font-size: 16px;
-  left: 60px;
-  top: 90px;
-  color: rgb(236, 195, 229);
-  margin: 0px;
-  margin-block-start: 0px;
-  margin-block-end: 0px;
-  padding: 0px;
   font-weight: 700;
 }

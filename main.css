@@ -19,37 +19,23 @@ body {
   background-position: left bottom;
   background-repeat: no-repeat;
   background-color: rgb(243, 178, 172);
-  font-size: 12px;
   font-weight: 700;
 }
 .mainContents h2 {
   position: relative;
-  margin-left: 20px;
+  padding-left: 20px;
   color: rgb(164, 187, 214);
   -webkit-text-stroke: 1px rgb(54, 72, 94);
-  font-size: 200%;
+  font-size: 24px;
 }
-.mainContents dl {
-  position: absolute;
-  color: #fff;
-  top: 80px;
-  right: 75px;
-  width: 180px;
-}
-.mainContents dt {
-  color: #fff;
-  font-size: 16px;
-}
-
 .tableOfContnts ul {
   list-style: none;
   position: relative;
   top: 0px;
   left: 0px;
-  padding-left: 50px;
   font-size: 20px;
+  padding-left: 50px;
 }
-
 .tablelink {
   position: relative;
   color: rgb(164, 187, 214);
@@ -57,15 +43,5 @@ body {
   background: linear-gradient(#f3b2ac, #ea7775);
   text-decoration-color: rgb(98, 140, 186);
   font-size: 24px;
-  font-weight: 700;
-}
-.title {
-  position: relative;
-  height: 20px;
-  margin-top: 10px;
-  background-position: left bottom;
-  background-repeat: no-repeat;
-  color: #fff;
-  font-size: 12px;
   font-weight: 700;
 }
