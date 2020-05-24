@@ -113,7 +113,8 @@ body {
   margin-left: 20px;
   color: rgb(164, 187, 214);
   -webkit-text-stroke: 1px rgb(54, 72, 94);
-  background: linear-gradient(#dde7e3, rgb(164, 187, 214));
+  background: linear-gradient(#fff, rgb(164, 187, 214));
+  opacity: 0.9;
   text-decoration-color: rgb(98, 140, 186);
   font-weight: 700;
 }

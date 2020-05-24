@@ -16,6 +16,11 @@ ul {
   font-size: 20px;
   padding-left: 50px;
 }
+#photo {
+  width: 100% - 100px;
+  max-width: 350px;
+  height: auto;
+}
 .mainContents {
   position: relative;
   margin: 20px;
