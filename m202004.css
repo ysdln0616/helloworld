@@ -1,5 +1,5 @@
 html,
-body {
+.m202004 body {
   background-color: #bb5e8d;
 }
 
@@ -14,7 +14,7 @@ body {
   border-bottom: solid 1px #000;
 }
 
-.mainContents {
+.m202004 .mainContents {
   position: relative;
   margin: 20px;
   background-position: left bottom;
@@ -23,7 +23,7 @@ body {
   font-weight: 700;
 }
 
-.mainContents h2 {
+.m202004 .mainContents h2 {
   position: relative;
   padding-left: 20px;
   color: #dfa9e3;
@@ -39,7 +39,7 @@ body {
   padding-left: 50px;
 }
 
-.blogtitle {
+.m202004 .blogtitle {
   position: relative;
   color: #dfa9e3;
   -webkit-text-stroke: 1px #3e3f9c;
@@ -49,7 +49,7 @@ body {
   font-weight: 700;
 }
 
-.backPreparge {
+.m202004 .backPreparge {
   position: relative;
   font-size: 20px;
   margin-left: 20px;
@@ -59,7 +59,7 @@ body {
   text-decoration-color: #bb5e8d;
   font-weight: 700;
 }
-.mDate {
+.m202004 .mDate {
   position: relative;
   font-size: 15px;
   margin-top: 5px;
@@ -68,7 +68,7 @@ body {
   float: right;
   font-weight: 400;
 }
-.document {
+.m202004 .document {
   position: relative;
   margin-left: 50px;
   margin-right: 50px;
