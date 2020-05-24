@@ -1,6 +1,6 @@
 html,
 body {
-  background-color: #ffd956;
+  background-color: #ff7163;
 }
 
 .v_line_left {
@@ -19,18 +19,18 @@ body {
   margin: 20px;
   background-position: left bottom;
   background-repeat: no-repeat;
-  background-color: #fbd6c9;
+  background-color: #ffc4b3;
   font-weight: 700;
 }
 
 .mainContents h2 {
   position: relative;
   padding-left: 20px;
-  color: #3189de;
-  -webkit-text-stroke: 1px #5d72fd;
+  color: #d6c3e5;
+  -webkit-text-stroke: 1px #006898;
   font-size: 24px;
 }
-.m202005 ul {
+.m202003 ul {
   list-style: none;
   position: relative;
   top: 0px;
@@ -41,10 +41,10 @@ body {
 
 .blogtitle {
   position: relative;
-  color: #3189de;
-  -webkit-text-stroke: 1px #5d72fd;
-  background: linear-gradient(#fbd6c9, #ffc3b3);
-  text-decoration-color: #265a8a;
+  color: #d6c3e5;
+  -webkit-text-stroke: 1px #006898;
+  background: linear-gradient(#ffc4b3, #ffab93);
+  text-decoration-color: #ff7163;
   font-size: 24px;
   font-weight: 700;
 }
@@ -53,10 +53,10 @@ body {
   position: relative;
   font-size: 20px;
   margin-left: 20px;
-  color: #3189de;
-  -webkit-text-stroke: 1px #5d72fd;
-  background: linear-gradient(#fbd6c9, #ffc3b3);
-  text-decoration-color: #265a8a;
+  color: #d6c3e5;
+  -webkit-text-stroke: 1px #006898;
+  background: linear-gradient(#ffc4b3, #ffab93);
+  text-decoration-color: #ff7163;
   font-weight: 700;
 }
 .mDate {
@@ -64,9 +64,8 @@ body {
   font-size: 15px;
   margin-top: 5px;
   margin-right: 20px;
-  color: #ee6056;
-  -webkit-text-stroke: 1px #ee6056;
-  background: linear-gradient(#fbd6c9, #ffc3b3, #fbd6c9);
+  color: #ffbc52;
+  -webkit-text-stroke: 1px #532625;
   float: right;
   font-weight: 400;
 }
@@ -74,7 +73,7 @@ body {
   position: relative;
   margin-left: 50px;
   margin-right: 50px;
-  color: #3189de;
-  -webkit-text-stroke: 1px #5d72fd;
+  color: #d6c3e5;
+  -webkit-text-stroke: 1px #006898;
   font-weight: 700;
 }
