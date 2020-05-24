@@ -24,7 +24,9 @@ body {
 .mainContents h2 {
   position: relative;
   padding-left: 20px;
-  color: #05accf;
+  /* color: #05accf;
+  -webkit-text-stroke: 1px #a8344d; */
+  color: #ff9256;
   -webkit-text-stroke: 1px #a8344d;
   font-size: 24px;
 }
@@ -39,10 +41,14 @@ body {
 
 .blogtitle {
   position: relative;
-  color: #05accf;
+  /* color: #05accf;
   -webkit-text-stroke: 1px #a8344d;
   background: linear-gradient(#ffc8a4, #efceba);
-  text-decoration-color: #aa3651;
+  text-decoration-color: #aa3651; */
+  color: #ff9256;
+  -webkit-text-stroke: 1px #a8344d;
+  background: linear-gradient(#ffc8a4, #ffb98a);
+  text-decoration-color: #ff6b90;
   font-size: 24px;
   font-weight: 700;
 }
@@ -51,10 +57,13 @@ body {
   position: relative;
   font-size: 20px;
   margin-left: 20px;
-  color: #05accf;
+  /* color: #05accf; */
+  /* background: linear-gradient(#ffc8a4, #efceba); */
+  /* text-decoration-color: #aa3651; */
+  color: #ff9256;
   -webkit-text-stroke: 1px #a8344d;
-  background: linear-gradient(#ffc8a4, #efceba);
-  text-decoration-color: #aa3651;
+  background: linear-gradient(#ffc8a4, #ffb98a);
+  text-decoration-color: #ff6b90;
   font-weight: 700;
 }
 .mDate {
@@ -62,17 +71,20 @@ body {
   font-size: 15px;
   margin-top: 5px;
   margin-right: 20px;
-  color: #ff9256;
-  -webkit-text-stroke: 1px #ff9256;
+  /* color: #ff9256;
+  -webkit-text-stroke: 1px #ff9256; */
+  color: #05accf;
+  /* -webkit-text-stroke: 1px #a8344d; */
   float: right;
   font-weight: 400;
-  background: linear-gradient(#ffc8a4, #fec954, #ffc8a4);
+  /* background: linear-gradient(#ffc8a4, #fec954, #ffc8a4); */
 }
 .document {
   position: relative;
   margin-left: 50px;
   margin-right: 50px;
-  color: #05accf;
-  -webkit-text-stroke: 1px #a8344d;
+  /* color: #05accf;
+  -webkit-text-stroke: 1px #a8344d; */
+  color: #a8344d;
   font-weight: 700;
 }

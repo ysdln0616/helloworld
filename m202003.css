@@ -7,7 +7,7 @@ body {
   border-left: solid 1px;
   border-right: solid 1px;
   padding-left: 0px;
-  border-color: black;
+  border-color: #000;
 }
 
 .border {
@@ -64,8 +64,7 @@ body {
   font-size: 15px;
   margin-top: 5px;
   margin-right: 20px;
-  color: #ffbc52;
-  -webkit-text-stroke: 1px #532625;
+  color: #006898;
   float: right;
   font-weight: 400;
 }
@@ -73,7 +72,8 @@ body {
   position: relative;
   margin-left: 50px;
   margin-right: 50px;
-  color: #d6c3e5;
-  -webkit-text-stroke: 1px #006898;
+  /* color: #d6c3e5;
+  -webkit-text-stroke: 1px #006898; */
+  color: #532625;
   font-weight: 700;
 }

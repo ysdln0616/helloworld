@@ -59,7 +59,7 @@ body {
   margin-left: 10px;
   color: #3189de;
   -webkit-text-stroke: 1px #5d72fd;
-  text-decoration-color: #265a8a;
+  text-decoration-color: #5d72fd;
 }
 
 #m202003 {
@@ -68,11 +68,21 @@ body {
 
 #m202003 a {
   margin-left: 10px;
-  /* background-color: #ffc4b3; */
-  /* background: linear-gradient(#ffc4b3, #ffab93); */
   color: #d6c3e5;
   -webkit-text-stroke: 1px #006898;
   text-decoration-color: #ff7163;
+  text-decoration-color: #006898;
+}
+
+#m202004 {
+  background: #bb5e8d;
+}
+
+#m202004 a {
+  margin-left: 10px;
+  color: #dfa9e3;
+  -webkit-text-stroke: 1px #3e3f9c;
+  text-decoration-color: #3e3f9c;
 }
 
 #m201906 {
@@ -81,7 +91,7 @@ body {
 
 #m201906 a {
   margin-left: 10px;
-  color: #05accf;
+  color: #ff9256;
   -webkit-text-stroke: 1px #a8344d;
   text-decoration-color: #aa3651;
 }

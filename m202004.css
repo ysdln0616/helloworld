@@ -1,0 +1,77 @@
+html,
+body {
+  background-color: #bb5e8d;
+}
+
+.v_line_left {
+  border-left: solid 1px;
+  border-right: solid 1px;
+  padding-left: 0px;
+  border-color: #000;
+}
+
+.border {
+  border-bottom: solid 1px #000;
+}
+
+.mainContents {
+  position: relative;
+  margin: 20px;
+  background-position: left bottom;
+  background-repeat: no-repeat;
+  background-color: #ffe1d3;
+  font-weight: 700;
+}
+
+.mainContents h2 {
+  position: relative;
+  padding-left: 20px;
+  color: #dfa9e3;
+  -webkit-text-stroke: 1px #3e3f9c;
+  font-size: 24px;
+}
+.m202004 ul {
+  list-style: none;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  font-size: 20px;
+  padding-left: 50px;
+}
+
+.blogtitle {
+  position: relative;
+  color: #dfa9e3;
+  -webkit-text-stroke: 1px #3e3f9c;
+  background: linear-gradient(#ffe1d3, #e58390);
+  text-decoration-color: #bb5e8d;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.backPreparge {
+  position: relative;
+  font-size: 20px;
+  margin-left: 20px;
+  color: #dfa9e3;
+  -webkit-text-stroke: 1px #3e3f9c;
+  background: linear-gradient(#ffe1d3, #ffab93);
+  text-decoration-color: #bb5e8d;
+  font-weight: 700;
+}
+.mDate {
+  position: relative;
+  font-size: 15px;
+  margin-top: 5px;
+  margin-right: 20px;
+  color: #c9346c;
+  float: right;
+  font-weight: 400;
+}
+.document {
+  position: relative;
+  margin-left: 50px;
+  margin-right: 50px;
+  color: #532625;
+  font-weight: 700;
+}

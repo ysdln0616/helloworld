@@ -1,6 +1,6 @@
 html,
 body {
-  background-color: rgb(121, 187, 156);
+  background-color: #62bd9e;
 }
 
 .v_line_left {
@@ -41,8 +41,9 @@ body {
   position: relative;
   color: #8db0fc;
   -webkit-text-stroke: 1px #34271c;
-  background: linear-gradient(#febca6, #d2c1d4);
+  background: linear-gradient(#febca6, #ff9b7a);
   text-decoration-color: #42876f;
+  /* text-decoration-color: #62bd9e; */
   font-size: 24px;
   font-weight: 700;
 }
@@ -53,8 +54,9 @@ body {
   margin-left: 20px;
   color: #8db0fc;
   -webkit-text-stroke: 1px #34271c;
-  background: linear-gradient(#febca6, #d2c1d4);
+  background: linear-gradient(#febca6, #ff9b7a);
   text-decoration-color: #42876f;
+  /* text-decoration-color: #62bd9e; */
   font-weight: 700;
 }
 .mDate {
@@ -66,13 +68,14 @@ body {
   -webkit-text-stroke: 1px #f74e45;
   float: right;
   font-weight: 400;
-  background: linear-gradient(#febca6, #ff9b7a, #febca6);
+  /* background: linear-gradient(#febca6, #ff9b7a, #febca6); */
 }
 .document {
   position: relative;
   margin-left: 50px;
   margin-right: 50px;
-  color: #8db0fc;
-  -webkit-text-stroke: 1px #34271c;
+  /* color: #8db0fc;
+  -webkit-text-stroke: 1px #34271c; */
+  color: #34271c;
   font-weight: 700;
 }
