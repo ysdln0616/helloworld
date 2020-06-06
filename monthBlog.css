@@ -51,6 +51,17 @@ body {
   margin-bottom: 2px;
 }
 
+#m202006 {
+  background: #95c91b;
+}
+
+#m202006 a {
+  margin-left: 10px;
+  color: #c6b5d6;
+  -webkit-text-stroke: 1px #ff514b;
+  text-decoration-color: #ff514b;
+}
+
 #m202005 {
   background: #ff7163;
 }
@@ -59,7 +70,6 @@ body {
   margin-left: 10px;
   color: #d6c3e5;
   -webkit-text-stroke: 1px #006898;
-  text-decoration-color: #ff7163;
   text-decoration-color: #006898;
 }
 

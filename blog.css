@@ -61,6 +61,35 @@ ul {
   font-weight: 700;
 }
 
+.m202006 .mainContents {
+  background-color: #ffb5a0;
+}
+
+.m202006 .mainContents h2 {
+  color: #c6b5d6;
+  -webkit-text-stroke: 1px #ff514b;
+}
+
+.m202006 .blogtitle {
+  color: #c6b5d6;
+  -webkit-text-stroke: 1px #ff514b;
+  background: linear-gradient(#ffb5a0, #ffa189);
+  text-decoration-color: #95c91b;
+}
+
+.m202006 .backPreparge {
+  color: #c6b5d6;
+  -webkit-text-stroke: 1px #ff514b;
+  background: linear-gradient(#ffb5a0, #ffa189);
+  text-decoration-color: #95c91b;
+}
+.m202006 .mDate {
+  color: #ff9d01;
+}
+.m202006 .document {
+  color: #086285;
+}
+
 .m202005 .mainContents {
   background-color: #ffc4b3;
 }
