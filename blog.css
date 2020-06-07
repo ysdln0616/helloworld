@@ -61,172 +61,170 @@ ul {
   font-weight: 700;
 }
 
-.m202006 .mainContents {
-  background-color: #ffb5a0;
+.m01 .mainContents {
+  background-color: #fbbdb9;
 }
 
-.m202006 .mainContents h2 {
-  color: #c6b5d6;
-  -webkit-text-stroke: 1px #ff514b;
+.m01 .mainContents h2 {
+  /* #a284c9; */
+  color: #cf9a88;
+  -webkit-text-stroke: 1px #47335f;
 }
 
-.m202006 .blogtitle {
-  color: #c6b5d6;
-  -webkit-text-stroke: 1px #ff514b;
-  background: linear-gradient(#ffb5a0, #ffa189);
-  text-decoration-color: #95c91b;
+.m01 .blogtitle {
+  color: #cf9a88;
+  -webkit-text-stroke: 1px #47335f;
+  background: linear-gradient(#fbbdb9, #f3908d);
+  text-decoration-color: #a284c9;
 }
 
-.m202006 .backPreparge {
-  color: #c6b5d6;
-  -webkit-text-stroke: 1px #ff514b;
-  background: linear-gradient(#ffb5a0, #ffa189);
-  text-decoration-color: #95c91b;
+.m01 .backPreparge {
+  color: #cf9a88;
+  -webkit-text-stroke: 1px #47335f;
+  background: linear-gradient(#fbbdb9, #f3908d);
+  text-decoration-color: #a284c9;
 }
-.m202006 .mDate {
-  color: #ff9d01;
+.m01 .mDate {
+  color: #f54b71;
 }
-.m202006 .document {
-  color: #086285;
+.m01 .document {
+  color: #47335f;
 }
 
-.m202005 .mainContents {
+.m10 .mainContents {
   background-color: #ffc4b3;
 }
-
-.m202005 .mainContents h2 {
+.m10 .mainContents h2 {
   color: #d6c3e5;
   -webkit-text-stroke: 1px #006898;
 }
-
-.m202005 .blogtitle {
-  color: #d6c3e5;
-  -webkit-text-stroke: 1px #006898;
-  background: linear-gradient(#ffc4b3, #ffab93);
-  text-decoration-color: #ff7163;
-}
-
-.m202005 .backPreparge {
+.m10 .blogtitle {
   color: #d6c3e5;
   -webkit-text-stroke: 1px #006898;
   background: linear-gradient(#ffc4b3, #ffab93);
   text-decoration-color: #ff7163;
 }
-.m202005 .mDate {
+.m10 .backPreparge {
+  color: #d6c3e5;
+  -webkit-text-stroke: 1px #006898;
+  background: linear-gradient(#ffc4b3, #ffab93);
+  text-decoration-color: #ff7163;
+}
+.m10 .mDate {
   color: #006898;
 }
-.m202005 .document {
-  color: #532625;
-}
-.m202004 .mainContents {
-  background-color: #ffe1d3;
-}
-
-.m202004 .mainContents h2 {
-  color: #dfa9e3;
-  -webkit-text-stroke: 1px #3e3f9c;
-}
-
-.m202004 .blogtitle {
-  color: #dfa9e3;
-  -webkit-text-stroke: 1px #3e3f9c;
-  background: linear-gradient(#ffe1d3, #e58390);
-  text-decoration-color: #bb5e8d;
-}
-
-.m202004 .backPreparge {
-  color: #dfa9e3;
-  -webkit-text-stroke: 1px #3e3f9c;
-  background: linear-gradient(#ffe1d3, #ffab93);
-  text-decoration-color: #bb5e8d;
-}
-.m202004 .mDate {
-  color: #c9346c;
-}
-.m202004 .document {
+.m10 .document {
   color: #532625;
 }
 
-.m202003 .mainContents {
+.m08 .mainContents {
   background-color: #fbd6c9;
 }
 
-.m202003 .mainContents h2 {
+.m08 .mainContents h2 {
   color: #3189de;
   -webkit-text-stroke: 1px #5d72fd;
 }
 
-.m202003 .blogtitle {
+.m08 .blogtitle {
   color: #3189de;
   -webkit-text-stroke: 1px #5d72fd;
   background: linear-gradient(#fbd6c9, #ffc3b3);
   text-decoration-color: #5d72fd;
 }
 
-.m202003 .backPreparge {
+.m08 .backPreparge {
   color: #3189de;
   -webkit-text-stroke: 1px #5d72fd;
   background: linear-gradient(#fbd6c9, #ffc3b3);
   text-decoration-color: #5d72fd;
 }
-.m202003 .mDate {
+.m08 .mDate {
   color: #ee6056;
   -webkit-text-stroke: 1px #ee6056;
 }
-.m202003 .document {
+.m08 .document {
   color: #544221;
 }
 
-.m201906 .mainContents {
+.m11 .mainContents {
   background-color: #ffc8a4;
 }
-.m201906 .mainContents h2 {
+.m11 .mainContents h2 {
   color: #ff9256;
   -webkit-text-stroke: 1px #a8344d;
 }
 
-.m201906 .blogtitle {
+.m11 .blogtitle {
   color: #ff9256;
   -webkit-text-stroke: 1px #a8344d;
   background: linear-gradient(#ffc8a4, #ffb98a);
   text-decoration-color: #ff6b90;
 }
 
-.m201906 .backPreparge {
+.m11 .backPreparge {
   color: #ff9256;
   -webkit-text-stroke: 1px #a8344d;
   background: linear-gradient(#ffc8a4, #ffb98a);
   text-decoration-color: #ff6b90;
 }
-.m201906 .mDate {
+.m11 .mDate {
   color: #05accf;
 }
-.m201906 .document {
+.m11 .document {
   color: #a8344d;
 }
-.m201905 .mainContents {
+
+.m06 .mainContents {
   background-color: #febca6;
 }
-.m201905 .mainContents h2 {
+.m06 .mainContents h2 {
   color: #8db0fc;
   -webkit-text-stroke: 1px #34271c;
 }
-.m201905 .blogtitle {
+.m06 .blogtitle {
   color: #8db0fc;
   -webkit-text-stroke: 1px #34271c;
   background: linear-gradient(#febca6, #ff9b7a);
   text-decoration-color: #42876f;
 }
 
-.m201905 .backPreparge {
+.m06 .backPreparge {
   color: #8db0fc;
   -webkit-text-stroke: 1px #34271c;
   background: linear-gradient(#febca6, #ff9b7a);
   text-decoration-color: #42876f;
 }
-.m201905 .mDate {
+.m06 .mDate {
   color: #f74e45;
 }
-.m201905 .document {
+.m06 .document {
   color: #34271c;
+}
+
+.m02 .mainContents {
+  background-color: #fec2b0;
+}
+.m02 .mainContents h2 {
+  color: #f1cdc3;
+  -webkit-text-stroke: 1px #dc462c;
+}
+.m02 .blogtitle {
+  color: #f1cdc3;
+  -webkit-text-stroke: 1px #dc462c;
+  background: linear-gradient(#fec2b0, #f69f89);
+  text-decoration-color: #7b82c5;
+}
+
+.m02 .backPreparge {
+  color: #f1cdc3;
+  -webkit-text-stroke: 1px #dc462c;
+  background: linear-gradient(#fec2b0, #f69f89);
+  text-decoration-color: #7b82c5;
+}
+.m02 .mDate {
+  color: #ff593a;
+}
+.m02 .document {
+  color: #dc462c;
 }
